@@ -2,7 +2,7 @@
 
 <hr>
 
-# Добавление Grid сетки
+<h4>Добавление Grid сетки</h4>
 .news {
 	width: 100%;
 	&__row{
@@ -12,7 +12,7 @@
 	}
 }
 
-#Медиа запросы
+<h4>Медиа запросы</h4>
 @media screen and (max-width: 930px) {
 	.news {
 		&__row{
